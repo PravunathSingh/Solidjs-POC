@@ -8,7 +8,6 @@ import {
 } from 'solid-js';
 import HomeHeader from '../components/modules/home/HomeHeader';
 import { useNotes } from '../api/queries/notes.queries';
-import Spinner from '../components/shared/Spinner';
 import { createAutoAnimate } from '@formkit/auto-animate/solid';
 import NoteCard from '../components/modules/notes/NoteCard';
 import { INote } from '../types/entities';
