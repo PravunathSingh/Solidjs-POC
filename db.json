@@ -1,0 +1,122 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "value": "html"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "value": "css"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "value": "javascript"
+    },
+    {
+      "id": 4,
+      "name": "jQuery",
+      "value": "jquery"
+    },
+    {
+      "id": 5,
+      "name": "React",
+      "value": "react"
+    },
+    {
+      "id": 6,
+      "name": "Node.js",
+      "value": "nodejs"
+    },
+    {
+      "id": 7,
+      "name": "Express",
+      "value": "express"
+    },
+    {
+      "id": 8,
+      "name": "MongoDB",
+      "value": "mongodb"
+    },
+    {
+      "id": 9,
+      "name": "MySQL",
+      "value": "mysql"
+    },
+    {
+      "id": 10,
+      "name": "PHP",
+      "value": "php"
+    },
+    {
+      "id": 11,
+      "name": "Python",
+      "value": "python"
+    },
+    {
+      "id": 12,
+      "name": "Java",
+      "value": "java"
+    },
+    {
+      "id": 13,
+      "name": "C#",
+      "value": "csharp"
+    },
+    {
+      "id": 14,
+      "name": "C++",
+      "value": "cplusplus"
+    },
+    {
+      "id": 15,
+      "name": "C",
+      "value": "c"
+    },
+    {
+      "id": 16,
+      "name": "Ruby",
+      "value": "ruby"
+    },
+    {
+      "id": 17,
+      "name": "Swift",
+      "value": "swift"
+    },
+    {
+      "id": 18,
+      "name": "Kotlin",
+      "value": "kotlin"
+    },
+    {
+      "id": 19,
+      "name": "Go",
+      "value": "go"
+    },
+    {
+      "id": 20,
+      "name": "Rust",
+      "value": "rust"
+    },
+    {
+      "id": 21,
+      "name": "TypeScript"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Noteeee 1",
+      "content": "note 1 content",
+      "id": 1,
+      "isDisabled": false
+    },
+    {
+      "title": "note 2",
+      "content": "note 2 content",
+      "id": 2,
+      "isDisabled": true
+    }
+  ]
+}
