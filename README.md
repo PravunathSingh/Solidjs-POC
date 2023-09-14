@@ -6,9 +6,9 @@
 - [x] Edit a note
 - [x] Delete a note
 - [x] List all notes
-- [] Search notes
-- [] Add tags to notes
-- [] Filter notes by tags
+- [ ] Search notes
+- [ ] Add tags to notes
+- [ ] Filter notes by tags
 - [x] Disable / enable notes
 - [x] Toggle between disabled / enabled notes
 
